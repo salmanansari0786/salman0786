@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-x: hidden;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+    
+}
+.carousel-item img{
+    width: 100%;
+    height: 80vh;
+}
+.pic{
+    margin-left:80px ;
+    margin-top:40px ;
+}
+h3{
+    text-align: center;
+    font-family: sens-serif;
+}
+.card-body img{
+    min-width: 50%;
+    max-height: 200px;
+
+}
+#salman{
+    text-align: center;
+}
+#salman a{
+    color:red;
+    text-decoration: none;
+    border: 2px solid red;
+    background-color: black;
+    border-radius: 5px;
+    font-size: 15px;
+    padding: 5px;
+}
+#salman a:hover{
+    color: white;
+}
